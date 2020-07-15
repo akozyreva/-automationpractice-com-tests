@@ -1,0 +1,7 @@
+DEBUG 15/07/20 16:33:01:Config file loaded!!!
+DEBUG 15/07/20 16:33:01:OR file loaded!!!
+DEBUG 15/07/20 16:33:02:Chrome lunched
+DEBUG 15/07/20 16:33:05:Naviagted to: null
+ INFO 15/07/20 16:33:05:Start Login Test!
+ INFO 15/07/20 16:33:05:Method is executed
+DEBUG 15/07/20 16:33:45:Test Execution completed!

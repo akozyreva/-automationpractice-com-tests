@@ -1,0 +1,8 @@
+DEBUG 15/07/20 16:34:34:Config file loaded!!!
+DEBUG 15/07/20 16:34:34:OR file loaded!!!
+DEBUG 15/07/20 16:34:34:Chrome lunched
+DEBUG 15/07/20 16:34:37:Naviagted to: null
+ INFO 15/07/20 16:34:37:Start Login Test!
+ INFO 15/07/20 16:34:37:Method is executed
+ INFO 15/07/20 16:34:37://div[@class='header_user_info']//a[normalize-space()='Sign in']
+DEBUG 15/07/20 16:35:19:Test Execution completed!
